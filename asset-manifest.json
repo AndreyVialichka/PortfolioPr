@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioPr/static/css/main.d7c7c4bf.css",
-    "main.js": "/PortfolioPr/static/js/main.975a3e4c.js",
+    "main.js": "/PortfolioPr/static/js/main.c651ca3f.js",
     "static/media/learningCards.jpg": "/PortfolioPr/static/media/learningCards.8f79a6e49ec1210ff718.jpg",
     "static/media/Todolist.jpg": "/PortfolioPr/static/media/Todolist.c92de31c42cf2d8d99cf.jpg",
     "static/media/socialNetwork.jpg": "/PortfolioPr/static/media/socialNetwork.bf102267bb6be94ba2cf.jpg",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.d7c7c4bf.css",
-    "static/js/main.975a3e4c.js"
+    "static/js/main.c651ca3f.js"
   ]
 }
