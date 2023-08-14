@@ -11,9 +11,9 @@ const meta = {
 const introdata = {
   title: "I’m Andrew",
   animated: {
-    first: "I love coding",
-    second: "I code cool websites",
-    third: "I learning developing mobile apps",
+    first: "I'm Front-end developer",
+    second: "I create Web-applications",
+    third: "I'm looking for opportunity",
   },
   description: "I am the frontend developer you were looking for",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -24,23 +24,7 @@ const dataabout = {
   aboutme:
     "Hi there! I'm a frontend developer with experience in creating beautiful, efficient, and responsive web applications. My passion for web development started during my studies when I began creating my first websites. Since then, I've continued to learn and develop my skills in this field.",
 };
-const worktimeline = [
-  {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-  },
-];
+
 
 const skills = [
   {
